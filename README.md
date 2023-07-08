@@ -19,7 +19,7 @@ Example code based on llama_index libray, to "chat with" plain text files includ
 In order to run this example, you need an OpenAI Api Key. With an OpenAI working account, go to https://platform.openai.com/account/api-keys and generate a valid key. Paste the key into config.js
 
 ## Run
-Simply download the Python code, past a valid OpenAI Api Key into config.js and run <code>python main.py</code>
+Simply download the Python code, paste a valid OpenAI Api Key into config.js and run <code>python main.py</code>
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=u-wJoZ4sA88" target="_blank"><img src="http://img.youtube.com/vi/u-wJoZ4sA88/0.jpg" alt="" width="480" height="269" border="10"></a>
 
