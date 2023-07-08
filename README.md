@@ -21,5 +21,6 @@ In order to run this example, you need an OpenAI Api Key. With an OpenAI working
 ## Run
 Simply download the Python code, past a valid OpenAI Api Key into config.js and run <code>python main.py</code>
 
-## See how to run the example
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=u-wJoZ4sA88" target="_blank"><img src="http://img.youtube.com/vi/u-wJoZ4sA88/0.jpg" alt="" width="480" height="269" border="10"></a>
+
 https://www.youtube.com/watch?v=u-wJoZ4sA88
